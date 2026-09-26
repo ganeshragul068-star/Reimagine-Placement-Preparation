@@ -1,7 +1,7 @@
-# PlacementForge 🚀
+# Placement Forge 🚀
 > **The Zero-to-Offer Placement Operating System**
 
-PlacementForge is an intelligent, high-velocity placement preparation platform built to take engineering students from absolute zero to cracking high-tier campus placements and product engineering interviews.
+Placement Forge is an intelligent, high-velocity placement preparation platform built to take engineering students from absolute zero to cracking high-tier campus placements and product engineering interviews.
 
 Featuring an ultra-clean, accessible **Light Theme** UI/UX with visual metric progress, interactive radars, AI-driven diagnostics, and realistic mock interview simulations.
 

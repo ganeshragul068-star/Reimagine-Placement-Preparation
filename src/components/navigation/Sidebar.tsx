@@ -86,11 +86,11 @@ export function Sidebar() {
           </div>
           <div>
             <div className="flex items-center gap-1.5">
-              <span className="font-black text-lg tracking-tight text-slate-900">
-                Placement<span className="text-indigo-600">Forge</span>
+              <span className="font-black text-xl tracking-tight text-slate-900">
+                Placement <span className="text-indigo-600">Forge</span>
               </span>
             </div>
-            <p className="text-[11px] text-slate-500 font-medium">The Zero-to-Offer OS</p>
+            <p className="text-[11px] text-slate-500 font-semibold">The Zero-to-Offer OS</p>
           </div>
         </Link>
 

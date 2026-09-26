@@ -56,7 +56,7 @@ export default function DashboardPage() {
               </span>
             </div>
             <h2 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              Placement<span className="text-indigo-600">Forge</span> Command Center
+              Placement <span className="text-indigo-600">Forge</span> Command Center
             </h2>
             <p className="text-sm text-slate-600 max-w-2xl leading-relaxed">
               Tracking personal learning velocity and skill delta. Your profile is tailored for{" "}

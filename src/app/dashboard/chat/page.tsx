@@ -25,7 +25,7 @@ export default function ChatPage() {
   const initialMessage: ChatMessage = {
     id: "init-1",
     role: "assistant",
-    content: `Hello **${user.name}**! I am **ForgeBot**, your dedicated Placement AI Mentor at PlacementForge.
+    content: `Hello **${user.name}**! I am **ForgeBot**, your dedicated Placement AI Mentor at **Placement Forge**.
 
 I can guide you on:
 * **Company Exam Blueprints** (TCS NQT, Cognizant GenC/Next, Infosys, Zoho, Accenture)

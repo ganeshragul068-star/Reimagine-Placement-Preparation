@@ -34,9 +34,9 @@ export default function HomePage() {
           </div>
           <div>
             <div className="flex items-center gap-1.5">
-              <span className="font-black text-xl tracking-tight text-slate-900">Placement<span className="text-indigo-600">Forge</span></span>
+              <span className="font-black text-2xl tracking-tight text-slate-900">Placement <span className="text-indigo-600">Forge</span></span>
             </div>
-            <p className="text-[11px] text-slate-500 font-medium">The Zero-to-Offer Placement OS</p>
+            <p className="text-[11px] text-slate-500 font-semibold">The Zero-to-Offer Placement OS</p>
           </div>
         </div>
 
@@ -74,7 +74,7 @@ export default function HomePage() {
 
         <p className="mt-6 text-base sm:text-lg text-slate-600 max-w-2xl font-normal leading-relaxed">
           Most platforms assume you already know what to do and dump hundreds of questions.
-          <strong className="text-slate-900 font-bold"> PlacementForge</strong> acts as your empathetic GPS: calibrated diagnostics, noise-filtered 14-day sprints, vernacular mental models, and real-time Gemini evaluation.
+          <strong className="text-slate-900 font-black"> Placement Forge</strong> acts as your empathetic GPS: calibrated diagnostics, noise-filtered 14-day sprints, vernacular mental models, and real-time Gemini evaluation.
         </p>
 
         {/* CTA Buttons */}
@@ -157,7 +157,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="border-t border-slate-200 bg-white py-6 text-center text-xs text-slate-500">
-        <p><strong className="text-slate-900 font-bold">PlacementForge</strong> • Empathetic Placement Preparation for Zero-Skill Engineers • Powered by Next.js 15 &amp; Gemini 2.5 Flash</p>
+        <p><strong className="text-slate-900 font-black">Placement Forge</strong> • Empathetic Placement Preparation for Zero-Skill Engineers • Powered by Next.js 15 &amp; Gemini 2.5 Flash</p>
       </footer>
     </div>
   );

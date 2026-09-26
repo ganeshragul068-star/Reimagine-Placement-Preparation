@@ -169,7 +169,7 @@ export default function ResumeAuditPage() {
             No Resume? No Problem. Extract Transferable Tech Logic
           </h2>
           <p className="text-xs sm:text-sm text-slate-600 max-w-2xl leading-relaxed">
-            Standard portals reject empty resumes. PlacementForge extracts real engineering logic from basic assignments, class labs, and informal mini-projects to compute your Day-0 starting baseline.
+            Standard portals reject empty resumes. <strong className="text-slate-900 font-bold">Placement Forge</strong> extracts real engineering logic from basic assignments, class labs, and informal mini-projects to compute your Day-0 starting baseline.
           </p>
         </div>
 
@@ -223,7 +223,7 @@ export default function ResumeAuditPage() {
                   </span>
                 </div>
                 <p className="text-xs text-slate-500 mt-1 leading-relaxed">
-                  Never feel like you start from zero. Select any topics you saw in class or lab. PlacementForge translates them into enterprise skills.
+                  Never feel like you start from zero. Select any topics you saw in class or lab. Placement Forge translates them into enterprise skills.
                 </p>
               </div>
 

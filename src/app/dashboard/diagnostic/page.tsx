@@ -199,7 +199,7 @@ export default function DiagnosticPage() {
                   { id: "A", label: "2.5 hours (Average of 2 and 3)", hint: "Common trap: Rates add up, time decreases!" },
                   { id: "B", label: "1.2 hours (72 minutes)", hint: "Combined rate: 30 + 20 = 50L/hr. 60/50 = 1.2 hrs." },
                   { id: "C", label: "5 hours (2 + 3 hours)", hint: "Two taps working together are faster, not slower." },
-                  { id: "D", label: "I am not sure / Never learned this", hint: "Totally fine! That is why PlacementForge exists." },
+                  { id: "D", label: "I am not sure / Never learned this", hint: "Totally fine! That is why Placement Forge exists." },
                 ].map((opt) => (
                   <button
                     key={opt.id}

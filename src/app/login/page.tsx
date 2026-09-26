@@ -123,9 +123,9 @@ export default function LoginPage() {
               </div>
               <div>
                 <div className="flex items-center gap-1.5">
-                  <span className="font-black text-2xl text-slate-900 tracking-tight">Placement<span className="text-indigo-600">Forge</span></span>
+                  <span className="font-black text-2xl text-slate-900 tracking-tight">Placement <span className="text-indigo-600">Forge</span></span>
                 </div>
-                <p className="text-xs text-slate-500 font-medium">The Zero-to-Offer Placement OS</p>
+                <p className="text-xs text-slate-500 font-semibold">The Zero-to-Offer Placement OS</p>
               </div>
             </div>
 
@@ -138,14 +138,14 @@ export default function LoginPage() {
                 No complex DSA barrier. Tailored to your exact target role.
               </h2>
               <p className="text-sm text-slate-600 leading-relaxed">
-                If you have never written a line of code or struggle with aptitude anxiety, <strong className="text-slate-900 font-bold">PlacementForge</strong> synthesizes your transferable skills and guides you to an offer in 14 focused days.
+                If you have never written a line of code or struggle with aptitude anxiety, <strong className="text-slate-900 font-black">Placement Forge</strong> synthesizes your transferable skills and guides you to an offer in 14 focused days.
               </p>
             </div>
 
             {/* Testimonial / Social proof */}
             <div className="p-4 rounded-2xl bg-white border border-slate-200 shadow-xs space-y-2.5">
               <p className="text-xs text-slate-700 italic leading-relaxed">
-                &ldquo;Every other site gave me 500 hard dynamic programming MCQs. PlacementForge started with ATM analogies in Tanglish and built my confidence. Cleared TCS Digital in 2 weeks.&rdquo;
+                &ldquo;Every other site gave me 500 hard dynamic programming MCQs. Placement Forge started with ATM analogies in Tanglish and built my confidence. Cleared TCS Digital in 2 weeks.&rdquo;
               </p>
               <div className="flex items-center gap-2.5 pt-1">
                 <div className="w-7 h-7 rounded-full bg-emerald-100 text-emerald-800 flex items-center justify-center font-bold text-xs">
